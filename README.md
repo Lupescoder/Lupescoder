@@ -8,6 +8,7 @@
 
 Olá, 
   Bem-Vindos, me chamo Wesley e começei nesse novo mundo a muito pouco tempo. Tenho meus 20 anos e estou aprendendo sobre Desenvolvimento Web.
+  <br>
 Jovem Aventureiro 🤔 procurando por conhecimento.
 <br>
 <br>
