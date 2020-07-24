@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align = "center">
+  <br>
+  <img src = "https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" width= "100" height = "100">
+   
+</div>
+
+
+
+
 
 <!--
 **Lupescoder/Lupescoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
