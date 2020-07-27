@@ -7,7 +7,7 @@
 ### Learn Everything 😄
 
 Olá, 
-  Bem-Vindos, me chamo Wesley e começei nesse mundo novo da programação a muito pouco tempo. Tenho meus 20 anos e estou aprendendo sobre Desenvolvimento Web.
+  Bem-Vindos, me chamo Wesley e começei nesse mundo novo da programação a  pouco tempo. Tenho meus 20 anos e estou aprendendo sobre Desenvolvimento Web.
   <br>
 Jovem Aventureiro 🤔 procurando por conhecimento.
 <br>
