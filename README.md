@@ -7,7 +7,9 @@
 ### Learn Everything 😄
 
 Olá, 
-  Bem-Vindos, me chamo Wesley e começei nesse mundo novo da programação a  pouco tempo. Tenho meus 20 anos e estou aprendendo sobre Desenvolvimento Web.
+  Bem-Vindos, me chamo Wesley Lopes e sou estudante de Ciência da computação na UDF.Estou disposto a aprender
+  sobre todas as áreas da tecnologia, desde Excel e HTML básico até IA e CyberSegurity. Amo participar de eventos de ciência
+  e tecnologia e também de feiras científicas. Além disso, participo de grupos de literatura, cuja minha paixão é imensa.
   <br>
 Jovem Aventureiro 🤔 procurando por conhecimento.
 <br>
@@ -19,6 +21,8 @@ Twitter = https://twitter.com/WesleyLopeszs
 Twitch = https://www.twitch.tv/humildaso
 <br>
 Instagram = https://www.instagram.com/wesleylupes/
+<br>
+linkedin = https://www.linkedin.com/in/wesleylopess/
 <br>
 <br>
 ⚡ Java Script
