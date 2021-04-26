@@ -26,6 +26,10 @@ linkedin = https://www.linkedin.com/in/wesleylopess/
 <br>
 <br>
 ⚡ Python
+⚡ JavaScript
+⚡ HTML
+⚡ CSS
+⚡ C++
 <!--
 **Lupescoder/Lupescoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
