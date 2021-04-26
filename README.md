@@ -25,7 +25,7 @@ Instagram = https://www.instagram.com/wesleylupes/
 linkedin = https://www.linkedin.com/in/wesleylopess/
 <br>
 <br>
-⚡ Java Script
+⚡ Python
 <!--
 **Lupescoder/Lupescoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
