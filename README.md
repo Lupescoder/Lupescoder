@@ -3,9 +3,9 @@
 **Bem Vindo ao meu perfil 😊**.<br>
 Me chamo Wesley Lopes e sou programador há quase 2 anos.<br><br>
 Estudo **Ciência da Computação** na Universidade do Distrito Federal (**UDF**), atualmente no 5º Período.<br><br>
-Amo estudar sobre os avanços tecnologicos e acompanhar a trajetória e os impactos que ela vem causando.<br><br>
+Amo estudar sobre os avanços tecnologicos e acompanhar a trajetória e os impactos.<br><br>
 Tenho orgulho em dizer que participei da equipe **vencedora em 1º lugar na Hackathon da Campus Party Brasília 2022** (CPBSB4),
-que teve como proposta ao desafio um aplicativo mobile de troca de lixo eletrônico por pontos que pode posteriormente ser trocado
+que teve como proposta desenvolver um aplicativo mobile de troca de lixo eletrônico por pontos que podem posteriormente ser trocado
 por passagem de metrô/ônibus.<br><br>
 Atualmente trabalho como **Desenvolvedor Web usando CakePHP**.<br><br>
 Estou **focando meus estudos** em desenvolvimento com **Java e Kotlin**, pois pretendo migrar para ser **Dev Mobile Nativo** 📱.
