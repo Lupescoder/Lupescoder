@@ -9,7 +9,7 @@ que teve como proposta ao desafio um aplicativo mobile de troca de lixo eletrôn
 por passagem de metrô/ônibus.<br><br>
 Atualmente trabalho como **Desenvolvedor Web usando CakePHP**.<br><br>
 Estou **focando meus estudos** em desenvolvimento com **Java e Kotlin**, pois pretendo migrar para ser **Dev Mobile Nativo** 📱.
-E obviamente pretendo estudar Swift brevemente.
+E pretendo estudar Swift o quanto antes.
 
 
 
