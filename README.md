@@ -1,7 +1,7 @@
 ## Sobre mim:
 
 **Bem Vindo ao meu perfil 😊**.<br>
-Me chamo Wesley Lopes e sou programador há quase 2 anos.<br><br>
+Me chamo Wesley Lopes e sou programador há mais de 2 anos.<br><br>
 Estudo **Ciência da Computação** na Universidade do Distrito Federal (**UDF**), atualmente no 5º Período.<br><br>
 Amo estudar sobre os avanços tecnologicos e acompanhar a trajetória e os impactos.<br><br>
 Tenho orgulho em dizer que participei da equipe **vencedora em 1º lugar na Hackathon da Campus Party Brasília 2022** (CPBSB4),
