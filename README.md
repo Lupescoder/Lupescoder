@@ -7,14 +7,15 @@ Amo estudar sobre os avanços tecnologicos e acompanhar a trajetória e os impac
 Tenho orgulho em dizer que participei da equipe **vencedora em 1º lugar na Hackathon da Campus Party Brasília 2022** (CPBSB4),
 que teve como proposta desenvolver um aplicativo mobile de troca de lixo eletrônico por pontos que podem posteriormente ser trocado
 por passagem de metrô/ônibus.<br><br>
-Atualmente trabalho como **Desenvolvedor Web usando CakePHP**.<br><br>
-Estou **focando meus estudos** em desenvolvimento com **Java e Kotlin**, pois pretendo migrar para ser **Dev Mobile Nativo** 📱.
+Atualmente trabalho como **Desenvolvedor Web**.<br><br>
+Estou **focando meus estudos** em desenvolvimento com **Java e Python**, pois pretendo migrar para ser **Engenheiro de Dados\Dev Python** .
 E pretendo estudar Swift o quanto antes.
 
 
 
 ## Já trabalhei com:
 <div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original-wordmark.svg" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
@@ -31,8 +32,13 @@ E pretendo estudar Swift o quanto antes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
+
+          
 </div>
 
 ## Status do GitHub :
