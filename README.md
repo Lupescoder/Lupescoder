@@ -8,8 +8,8 @@ Tenho orgulho em dizer que participei da equipe **vencedora em 1º lugar na Hack
 que teve como proposta desenvolver um aplicativo mobile de troca de lixo eletrônico por pontos que podem posteriormente ser trocado
 por passagem de metrô/ônibus.<br><br>
 Atualmente trabalho como **Desenvolvedor Web**.<br><br>
-Estou **focando meus estudos** em desenvolvimento com **Java e Python**, pois pretendo migrar para ser **Engenheiro de Dados\Dev Python** .
-E pretendo estudar Swift o quanto antes.
+Estou **focando meus estudos** em desenvolvimento com **Java e C/C++**, pois pretendo migrar para ser **Engenheiro de Software** .
+E estou estudando Swift para Desenvolvimento IOS.
 
 
 
