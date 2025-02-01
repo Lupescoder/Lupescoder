@@ -1,14 +1,16 @@
 ## Sobre mim:
 
 **Bem Vindo ao meu perfil 😊**.<br>
-Me chamo Wesley Lopes e sou programador há mais de 2 anos.<br><br>
-Estudo **Ciência da Computação** na Universidade do Distrito Federal (**UDF**), atualmente no 7º Período.<br><br>
+Me chamo Wesley Lopes e sou programador há mais de 3 anos.<br><br>
+Atualmente atuo com **Programação PHP** e **Gestão e Liderança de Equipes**.<br><br>
+Sou Bacharel em **Ciência da Computação** na Universidade do Distrito Federal (**UDF**)<br><br>
+Estou cursando a **Pós Graduação** em **Gestão Estratégica e Liderança** na **FIAP**<br><br>
 Amo estudar sobre os avanços tecnologicos e acompanhar a trajetória e os impactos.<br><br>
 Tenho orgulho em dizer que participei da equipe **vencedora em 1º lugar na Hackathon da Campus Party Brasília 2022** (CPBSB4),
 que teve como proposta desenvolver um aplicativo mobile de troca de lixo eletrônico por pontos que podem posteriormente ser trocado
 por passagem de metrô/ônibus.<br><br>
 Atualmente trabalho como **Desenvolvedor Web**.<br><br>
-Estou **focando meus estudos** em desenvolvimento com **Java e C/C++**, pois pretendo migrar para ser **Engenheiro de Software** .
+Estou **focando meus estudos** em desenvolvimento com **Java e PHP**, e aprimorando minhas habilidades em gestão e liderança de equipes.
 E estou estudando Swift para Desenvolvimento IOS.
 
 
